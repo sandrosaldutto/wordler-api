@@ -8,7 +8,7 @@ const getWord = () => {
     return JSON.parse(words)
 }
 
-router.get('/', cors(), (_req, res) => {
+router.get('/words', cors(), (_req, res) => {
     let word = getWord()
     .map(word => {
         return {
