@@ -1,14 +1,13 @@
 const express = require('express');
 const router = express.Router();
 const fs = require("fs");
-const cors = require("cors");
 
 const getWord = () => {
     const words = fs.readFileSync('./data/words.json')
     return JSON.parse(words)
 }
 
-router.get('/words', cors(), (_req, res) => {
+router.get('/', (_req, res) => {
     let word = getWord()
     .map(word => {
         return {
