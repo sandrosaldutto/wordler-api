@@ -7,8 +7,6 @@ const PORT = process.env.PORT || 8080;
 app.use(express.json())
 app.use(cors());
 
-
-
 const wordRoutes = require('./routes/words');
 app.use('/words', wordRoutes);
 
