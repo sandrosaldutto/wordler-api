@@ -24,5 +24,8 @@
     {"key": "w"},
     {"key": "x"},
     {"key": "y"},
-    {"key": "z"}
+    {"key": "z"},
+    {"key": "Enter"},
+    {"key": "Backspace"}
+
   ]
