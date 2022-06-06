@@ -1,74 +1,105 @@
-[
+{
+  "letters": [
+    { "key": "a" },
+    { "key": "b" },
+    { "key": "c" },
+    { "key": "d" },
+    { "key": "e" },
+    { "key": "f" },
+    { "key": "g" },
+    { "key": "h" },
+    { "key": "i" },
+    { "key": "j" },
+    { "key": "k" },
+    { "key": "l" },
+    { "key": "m" },
+    { "key": "n" },
+    { "key": "o" },
+    { "key": "p" },
+    { "key": "q" },
+    { "key": "r" },
+    { "key": "s" },
+    { "key": "t" },
+    { "key": "u" },
+    { "key": "v" },
+    { "key": "w" },
+    { "key": "x" },
+    { "key": "y" },
+    { "key": "z" }
+  ],
+
+  "words": [
     {
-        "answer": "hello",
-        "question": "elohl"
+      "answer": "hello",
+      "question": "elohl"
     },
     {
-        "answer": "train",
-        "question": "naitr"
+      "answer": "train",
+      "question": "naitr"
     },
     {
-        "answer": "shock",
-        "question": "kscoh"
+      "answer": "shock",
+      "question": "kscoh"
     },
     {
-        "answer": "jazzy",
-        "question": "yazjz"
+      "answer": "jazzy",
+      "question": "yazjz"
     },
     {
-        "answer": "jumpy",
-        "question": "muypj"
+      "answer": "jumpy",
+      "question": "muypj"
     },
     {
-        "answer": "beach",
-        "question": "hecba"
+      "answer": "beach",
+      "question": "hecba"
     },
     {
-        "answer": "brain",
-        "question": "nairb"
+      "answer": "brain",
+      "question": "nairb"
     },
     {
-        "answer": "chair",
-        "question": "hcair"
+      "answer": "chair",
+      "question": "hcair"
     },
     {
-        "answer": "field",
-        "question": "deifl"
+      "answer": "field",
+      "question": "deifl"
     },
     {
-        "answer": "peace",
-        "question": "acepe"
+      "answer": "peace",
+      "question": "acepe"
     },
     {
-        "answer": "skill",
-        "question": "lslki"
+      "answer": "skill",
+      "question": "lslki"
     },
     {
-        "answer": "taste",
-        "question": "staet"
+      "answer": "taste",
+      "question": "staet"
     },
     {
-        "answer": "unity",
-        "question": "tyinm"
+      "answer": "unity",
+      "question": "tyinm"
     },
     {
-        "answer": "youth",
-        "question": "uoyht"
+      "answer": "youth",
+      "question": "uoyht"
     },
     {
-        "answer": "adopt",
-        "question": "opdat"
+      "answer": "adopt",
+      "question": "opdat"
     },
     {
-        "answer": "scope",
-        "question": "cpose"
+      "answer": "scope",
+      "question": "cpose"
     },
     {
-        "answer": "rupee",
-        "question": "epuer"
+      "answer": "rupee",
+      "question": "epuer"
     },
     {
-        "answer": "scare",
-        "question": "rceas"
+      "answer": "scare",
+      "question": "rceas"
     }
-]
+  ]
+}
