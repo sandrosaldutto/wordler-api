@@ -7,7 +7,7 @@ const getLetters = () => {
     return JSON.parse(letters)
 }
 
-router.get('/letters', (_req, res) => {
+router.get('/', (_req, res) => {
     let letter = getLetters()
     .map(letter => {
         return {
