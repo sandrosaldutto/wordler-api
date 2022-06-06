@@ -7,7 +7,7 @@ const getWord = () => {
     return JSON.parse(words)
 }
 
-router.get('/', (_req, res) => {
+router.get('/words', (_req, res) => {
     let word = getWord()
     .map(word => {
         return {
